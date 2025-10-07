@@ -1,0 +1,2 @@
+# appunti-di-fedora
+MySettings
