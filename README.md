@@ -40,6 +40,8 @@ echo -e "[code]\nname=Visual Studio Code\nbaseurl=https://packages.microsoft.com
 
 >`sudo dnf install code # or code-insiders`
 
+*+ installare theme [Catppuccin](https://marketplace.visualstudio.com/items?itemName=Catppuccin.catppuccin-vsc)*
+
 10. Installare **avidemux**
  
 >`flatpack install flathub org.avidemux.Avidemux`
