@@ -4,7 +4,7 @@
 
 2. Cambiare la password di **kwallet** con una bianca altrimenti non viene salvata la password del wifi
 
-3. Disabilitare password all'avio
+3. Disabilitare password all'avvio
 
 4. *Installare*  [Firefox UI](https://github.com/black7375/Firefox-UI-Fix)
 
