@@ -104,7 +104,9 @@ echo -e "[code]\nname=Visual Studio Code\nbaseurl=https://packages.microsoft.com
 
 ###### thanks to [wz790](https://github.com/wz790/Fedora-Noble-Setup?tab=readme-ov-file#flathub-setup)
 
-18. ###### **Altri software installati**
+18. Installare tema [Catppuccin](https://github.com/catppuccin/konsole) per la konsole
+
+19. ###### **Altri software installati**
 
 * Freecad
 * GIMP
