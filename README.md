@@ -1,6 +1,6 @@
 # Le mie impostazioni: ![alt text](https://github.com/miko6/appunti-di-fedora/blob/main/immagini/logof2.png "logo")
 
-1. Installazione **chrome** tramite .rpm
+1. Installazione **[Chrome](https://www.google.com/chrome/?platform=linux)** tramite .rpm
 
 2. Cambiare la password di **kwallet** con una bianca altrimenti non viene salvata la password del wifi
 
