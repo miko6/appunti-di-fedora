@@ -106,7 +106,9 @@ echo -e "[code]\nname=Visual Studio Code\nbaseurl=https://packages.microsoft.com
 
 18. Installare tema [Catppuccin](https://github.com/catppuccin/konsole) per la konsole
 
-19. ###### **Altri software installati**
+19. Installare [Edge](https://packages.microsoft.com/yumrepos/edge/Packages/m/)
+
+20. ###### **Altri software installati**
 
 * Freecad
 * GIMP
