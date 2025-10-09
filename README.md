@@ -2,24 +2,24 @@
 
 1. Installazione **[Chrome](https://www.google.com/chrome/?platform=linux)** tramite .rpm
 
-2. Cambiare la password di **kwallet** con una bianca altrimenti non viene salvata la password del wifi
+2. Cambiare la password di **kwallet** con una bianca altrimenti non viene salvata la password del wifi.
 
-3. Disabilitare password all'avvio
+3. Disabilitare password all'avvio.
 
 4. *Installare*  [Firefox UI](https://github.com/black7375/Firefox-UI-Fix)
 
 5. Cambiare **dns**
 
-| DNS | Primario  | Secondario  |
-| ------- | --- | --- |
-| Cloudflare | 1.1.1.1 | 1.0.0.1 |
-| Google | 8.8.8.8 | 8.4.4.8 |
+| DNS        | Primario | Secondario |
+| ---------- | -------- | ---------- |
+| Cloudflare | 1.1.1.1  | 1.0.0.1    |
+| Google     | 8.8.8.8  | 8.4.4.8    |
 
 6. Installare **btop**
 
 >`sudo dnf install btop`
 
-7. Abilitare **flatpack** per installare telegram, da terminale
+7. Abilitare **flatpack** per installare telegram, da terminale:
    
 >`flatpak remote-add --if-not-exists flathub https://dl.flathub.org/repo/flathub.flatpakrepo`
 
@@ -34,7 +34,7 @@
 >`sudo rpm --import https://packages.microsoft.com/keys/microsoft.asc
 echo -e "[code]\nname=Visual Studio Code\nbaseurl=https://packages.microsoft.com/yumrepos/vscode\nenabled=1\nautorefresh=1\ntype=rpm-md\ngpgcheck=1\ngpgkey=https://packages.microsoft.com/keys/microsoft.asc" | sudo tee /etc/yum.repos.d/vscode.repo > /dev/null`
 
-*poi ancora*
+*poi ancora:*
 
 >`dnf check-update`
 
@@ -68,7 +68,7 @@ echo -e "[code]\nname=Visual Studio Code\nbaseurl=https://packages.microsoft.com
 
 ###### thanks to [wz790](https://github.com/wz790/Fedora-Noble-Setup?tab=readme-ov-file#flathub-setup)
 
-13. Installare **acestreamplayer** da snap
+13. Installare **acestreamplayer** da snap:
     
 >`sudo dnf install snapd`
 
@@ -76,7 +76,7 @@ echo -e "[code]\nname=Visual Studio Code\nbaseurl=https://packages.microsoft.com
 
 >`sudo snap install acestreamplayer`
 
-14. **Whatsapp** desktop su fedora da snap
+14. **Whatsapp** desktop su fedora da snap:
 
 >`sudo dnf install snapd`
 
@@ -88,7 +88,7 @@ echo -e "[code]\nname=Visual Studio Code\nbaseurl=https://packages.microsoft.com
     
 >`flatpak remote-add --if-not-exists flathub https://dl.flathub.org/repo/flathub.flatpakrepo`
 
-16. Disattivare **akonadi** all'avvio
+16. Disattivare **akonadi** all'avvio:
     
 >`sudo nano /$HOME/.config/akonadi/akonadiserverrc+`
 
