@@ -6,7 +6,7 @@
 
 3. Disabilitare password all'avvio.
 
-4. *Installare*  [Firefox UI](https://github.com/black7375/Firefox-UI-Fix)
+4. Disinstallare **Firefox**
 
 5. Cambiare **dns**
 
