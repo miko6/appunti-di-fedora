@@ -45,18 +45,11 @@
 
 >`sudo snap install acestreamplayer`
 
-10. **Whatsapp desktop** su fedora da snap:
-
->`sudo dnf install snapd`
-
->`sudo ln -s /var/lib/snapd/snap /snap`
-
->`sudo snap install whatsapp-desktop-client`
-
-11. Abilitare **flathub**
+10. Abilitare **flathub**
     
 >`flatpak remote-add --if-not-exists flathub https://dl.flathub.org/repo/flathub.flatpakrepo`
 
+11. Intallare **[Firefox UI]**(https://github.com/black7375/Firefox-UI-Fix)
 
 12. Font Microsoft
 
@@ -76,9 +69,7 @@
 
 * Freecad
 * GIMP
-* Pinta
 * Telegram
-* MediaInfo
 * Arduino Ide
 * Avidemux
 * Telegram
