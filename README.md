@@ -35,8 +35,6 @@
 
 ###### thanks to [wz790](https://github.com/wz790/Fedora-Noble-Setup?tab=readme-ov-file#flathub-setup)
 
-###### thanks to [wz790](https://github.com/wz790/Fedora-Noble-Setup?tab=readme-ov-file#flathub-setup)
-
 9. Installare **acestreamplayer** da snap:
     
 >`sudo dnf install snapd`
